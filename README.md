@@ -20,7 +20,4 @@ criar varias coisas.
 * C++
 
 * C#
-<br>
-<a href='https://instagram.com/renancandido90?igshid=YmJhNjkzNzY='>Instagram</a>
-
 
