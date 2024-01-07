@@ -1,5 +1,5 @@
 ### Ola 👋
-Sou um pequeno desenvolvedor de 13 anos, mas consigo
+Sou um fanatico por tecnologia de 14 anos, mas consigo
 criar varias coisas.
 
 ![](https://komarev.com/ghpvc/?username=renan-augusto3850)
@@ -7,17 +7,28 @@ criar varias coisas.
 
 * PYTHON
 
-### Um pouco de:
-
 * HTML
 
 * CSS
 
 * JAVASCRIPT
 
-### Quero aprender:
+* C++ (Só o basico)
 
-* C++
+### Mas estou tentando aprender:
+
+* Node.JS
+
+* Kotlin (Para desenvolvimento Android)
 
 * C#
 
+* Java
+
+  ### Meu sonho e conseguir criar:
+
+* TalkTrek
+
+* Educ+Life
+
+* sehol
