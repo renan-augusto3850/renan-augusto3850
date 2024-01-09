@@ -2,7 +2,7 @@
 Sou um fanatico por tecnologia de 14 anos, mas consigo
 criar varias coisas.
 
-![](https://komarev.com/ghpvc/?username=renan-augusto3850)
+![](https://komarev.com/ghpvc/?username=renan-augusto385000)
 ### Sei bastante de:
 
 * PYTHON
