@@ -4,8 +4,6 @@ criar varias coisas.
 
 ![renan-augusto3850's Stats](https://github-readme-stats.vercel.app/api?username=renan-augusto3850&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![renan-augusto3850's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renan-augusto3850&theme=tokyonight&hide_border=true)
-
 
 ### Sei bastante de:
 
@@ -18,6 +16,8 @@ criar varias coisas.
 * JAVASCRIPT
 
 * C++ (Só o basico)
+
+![renan-augusto3850's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renan-augusto3850&theme=tokyonight&hide_border=true)
 
 ### Mas estou tentando aprender:
 
