@@ -39,6 +39,6 @@ criar varias coisas.
 
 * sehol
 
-   ### Certificados:
+   ### Certificados(no futuro certificações):
 
 ![Renan's certificates](https://raw.githubusercontent.com/renan-augusto3850/renan-augusto3850/main/20240314_132918-COLLAGE.jpg)
