@@ -38,7 +38,7 @@ criar varias coisas.
 
 * EDUC+LIFE
 
-* sehol (Trabalho em foco)
+* sehol
 
 * catnet
 
