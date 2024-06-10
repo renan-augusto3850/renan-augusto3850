@@ -10,36 +10,36 @@ criar varias coisas.
 <a href="https://www.instagram.com/renancandido90?igsh=MWYycDZnYnp4NXhqaA==" target="_blank">Instagram</a>
 ### Sei bastante de:
 
+* JAVASCRIPT (virou meu favorito, quero Typescript um dia)
+
 * PYTHON
 
 * HTML
 
 * CSS
 
-* JAVASCRIPT
-
 * C++ (Só o basico/Medio)
+
+* Node.JS (nem queria, mas gostei muito)
 
 ![renan-augusto3850's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renan-augusto3850&theme=tokyonight&hide_border=true)
 
 ### Mas estou tentando aprender:
 
-* Node.JS
+* Kotlin (Para desenvolvimento Android, difícil demais)
 
-* Kotlin (Para desenvolvimento Android)
+* C# (não comecei a ver)
 
-* C#
-
-* Java
+* Java (tentei, gostei, mas não tive tempo de ver mais)
 
 ![renan-augusto3850's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-augusto3850&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-  ### Meu sonho e conseguir criar:
+  ### Meu sonho e conseguir criar (um dia terminar, tenho um projeto muito legal em mãos a desenvolver):
 
-* EDUC+LIFE
+* EDUC+LIFE (Plataforma para escolas)
 
-* sehol
+* sehol (uma linguagem de programação compilada, interpretada e transpilada, um dia)
 
-* catnet
+* catnet (Runtime de Sehol para Web)
 
-* SmartOS
+* SmartOS (muito difícil, mas quero um dia)
