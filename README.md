@@ -1,5 +1,5 @@
 ### Ola 👋
-Sou um fanatico por tecnologia de 14 anos, mas consigo
+Sou um fanatico por tecnologia de 15 anos, mas consigo
 criar varias coisas.
 
 - Estou a tempo sem fazer commits por causa de um projeto escolar: <a href="https://school-library-iota.vercel.app">EBJN</a>, mas a escola interfere também.
