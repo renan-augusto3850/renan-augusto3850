@@ -1,44 +1,53 @@
-### Ola 👋
-Sou um fanatico por tecnologia de 15 anos, mas consigo
-criar varias coisas.
+### Olá! 👋  
 
-- Me de estrelas para incentivar meus projetos ✨💫.
+Sou um entusiasta de tecnologia de 15 anos apaixonado por criar e aprender novas coisas.  
 
-![renan-augusto3850's Stats](https://github-readme-stats.vercel.app/api?username=renan-augusto3850&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+- 🌟 **Se você gostou dos meus projetos, deixe uma estrela! Isso me incentiva a continuar criando.**  
 
-<a href="https://www.instagram.com/renancandido90?igsh=MWYycDZnYnp4NXhqaA==" target="_blank">Instagram</a>
-### Sei bastante de:
+---
 
-* JAVASCRIPT (virou meu favorito, quero Typescript um dia)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renan-augusto3850&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
 
-* PYTHON
+### 🚀 Habilidades Técnicas  
 
-* HTML
+Atualmente, eu tenho experiência e conhecimento nas seguintes tecnologias:  
 
-* CSS
+- **JavaScript**  
+- **TypeScript**  
+- **Python**  
+- **HTML & CSS**  
+- **Node.js**  
 
-* C++ (Só o basico/Medio)
+💡 **Em aprendizado (iniciando em breve):**  
+- **C++**  
+- **Go**  
+- **Rust**  
 
-* Node.JS (nem queria, mas gostei muito)
+---
 
-![renan-augusto3850's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renan-augusto3850&theme=tokyonight&hide_border=true)
+![Streak do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=renan-augusto3850&theme=tokyonight&hide_border=true)  
 
-### Mas estou tentando aprender:
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-augusto3850&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
 
-* Kotlin (Para desenvolvimento Android, difícil demais)
+---
 
-* C# (não comecei a ver)
+### 🌟 Projetos e Sonhos  
 
-* Java (tentei, gostei, mas não tive tempo de ver mais)
+Eu sonho em desenvolver projetos que possam impactar a vida das pessoas de forma positiva. Alguns dos meus objetivos futuros incluem:  
 
-![renan-augusto3850's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-augusto3850&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+- 📚 **EDUC+LIFE** – Plataforma educacional para escolas.  
+- 💻 **sehol** – Uma linguagem de programação inovadora (compilada, interpretada e transpilada).  
+- 🌐 **catnet** – Runtime de Sehol para web.  
+- 🖥️ **SmartOS** – Um sistema operacional feito do zero (Hard core!).  
+- 🤝 Desenvolver habilidades de comunicação e fazer novos amigos.  
+- 🚀 Criar meu próprio negócio e transformar ideias em realidade.  
 
-  ### Meu sonho e conseguir criar (um dia terminar, tenho um projeto muito legal em mãos a desenvolver):
+---
 
-* EDUC+LIFE (Plataforma para escolas)
+### 📲 Conecte-se Comigo  
+[Instagram](https://www.instagram.com/renancandido90?igsh=MWYycDZnYnp4NXhqaA==)  
 
-* sehol (uma linguagem de programação compilada, interpretada e transpilada, um dia)
+---  
+🧩 **Um pouco sobre mim:** Sou Renan Augusto, do Brasil, e faço parte da comunidade autista.  
 
-* catnet (Runtime de Sehol para Web)
-
-* SmartOS (muito difícil, mas quero um dia)
+**Obrigado por visitar meu perfil!** 😁  
